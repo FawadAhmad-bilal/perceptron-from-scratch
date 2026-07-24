@@ -2,6 +2,7 @@
 
 Implementation of the **Perceptron Learning Algorithm** in Python, built from scratch and compared against scikit-learn. Two notebooks explore the algorithm from different angles: one using a **loss-function / weight-update rule** perspective, and another using the classic **Perceptron Trick** with random stochastic updates.
 
+
 ---
 
 ## Notebooks
